@@ -1,6 +1,6 @@
 body
 {
-    color:cornflowerblue;
+    color:rgb(0, 0, 0);
     text-align: center;
     font-family: Arial ;
     font-size: 16px;
@@ -8,10 +8,27 @@ body
     padding: 0;
 }
 
+#cabecera
+{
+    background: cornflowerblue;
+    box-shadow: 0px 3px 3px 0px rgb(48, 45, 45);
+    color: #ddd;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#cabecera #tagline
+{
+    padding: 0 0 0 1em ;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
 #container
 {
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;

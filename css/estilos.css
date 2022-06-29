@@ -48,8 +48,16 @@ body
     text-align: center;
 }
 
-#post
+#container #post
 {
     background: white;
     padding: 1em;
+}
+
+#container #footer
+{
+    background: rgb(50, 100, 177);
+    color:white;
+    text-align: center;
+    padding: 0.5em;
 }

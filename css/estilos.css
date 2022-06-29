@@ -48,17 +48,13 @@ body
     text-align: center;
 }
 
-<<<<<<< HEAD
-#container #post
+#post
 {
     background: white;
     padding: 1em;
 }
 
-#container #footer
-=======
 #footer
->>>>>>> 0a4b7d88e3e481664673a36e15717eecc9320b08
 {
     background: rgb(50, 100, 177);
     color:white;

@@ -48,6 +48,7 @@ body
     text-align: center;
 }
 
+<<<<<<< HEAD
 #container #post
 {
     background: white;
@@ -55,6 +56,9 @@ body
 }
 
 #container #footer
+=======
+#footer
+>>>>>>> 0a4b7d88e3e481664673a36e15717eecc9320b08
 {
     background: rgb(50, 100, 177);
     color:white;

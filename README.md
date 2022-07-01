@@ -12,4 +12,6 @@ Un blog increíble para el curso de  Github
 - Las personalidades multiples de freddy
 - Creado por mi
 - Incluye ejem en linux, Windows y Mac
+- disponible para todas las edades 
+
 y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo.Si llegas aca NO TE LO TOMES ENSERIO:)
